@@ -6,3 +6,4 @@ jedi >= 0.9
 gitpython >= 1.0
 six >= 1.10.0
 kivy-garden
+Pillow >= 4.0.0
